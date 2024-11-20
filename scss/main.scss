@@ -1,0 +1,19 @@
+@import "../scss/all/p1/about";
+@import "../scss/all/p2/versin";
+@import "../scss/all/p3/dreee";
+@import "../scss/all/p4/glue";
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+.contianer {
+    max-width: 1280px;
+    margin: 0 auto;
+}
